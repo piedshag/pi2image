@@ -419,6 +419,7 @@ dependencies = [
  "image",
  "memmap2",
  "num",
+ "rayon",
 ]
 
 [[package]]
